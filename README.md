@@ -109,6 +109,7 @@ Next.js • TypeScript • Flask • Python
 ## 📊 Customer Churn Prediction
 
 End-to-end machine learning project predicting customer churn using the IBM Telco Customer Churn dataset. Included exploratory data analysis, feature engineering, model evaluation, and business recommendations.
+https://app.zerve.ai/notebook/100609ce-40fe-49f1-a18b-11ba2e60212b?left_sidebar=files
 
 **Technologies**
 
@@ -128,16 +129,102 @@ HTML • CSS • JavaScript
 
 # 💼 Professional Experience
 
-### Technical Product Analyst
-**UCI Beall Applied Innovation**
+## Technical Product Analyst
+**UCI Beall Applied Innovation (Enterprise Collaboration Group)**
+*June 2025 – June 2026*
 
-- Develop AI-powered enterprise applications.
-- Collaborate with cross-functional teams to deliver new product features.
-- Build frontend and backend components.
-- Design user experiences and product workflows.
-- Evaluate AI systems and improve model performance.
-- Integrate cloud services and REST APIs.
+Worked at the intersection of software engineering, product management, and artificial intelligence to build enterprise AI applications used by researchers and internal stakeholders.
 
+### Responsibilities
+
+- Defined product requirements, user stories, and acceptance criteria for AI-powered applications and research platforms.
+- Built end-to-end product features across Python backend services, AWS infrastructure, and React/TypeScript frontend applications.
+- Designed UI/UX workflows, wireframes, and evaluation interfaces for enterprise AI products.
+- Developed LLM evaluation frameworks, reviewer rubrics, and prompt-testing workflows to improve AI response quality.
+- Collaborated with software engineers, designers, researchers, and product stakeholders throughout the software development lifecycle.
+- Integrated REST APIs and cloud services to support scalable enterprise applications.
+- Contributed to AI products including the UCI Knowledge Portal, AI Story Studio, Elder Wisdom Digital Human, and LOTE Digital Human Platform.
+
+**Technologies:** Python • React • TypeScript • Vite • AWS • REST APIs • Git • LLMs • Prompt Engineering
+
+---
+
+## Machine Learning Intern
+**UCLA Neurology**
+*August 2024 – July 2025*
+
+Conducted machine learning research to analyze RNA sequencing data for stroke recovery and axon regeneration studies.
+
+### Responsibilities
+
+- Developed RNA-seq analysis pipelines to process over 50,000 transcriptomic features.
+- Applied PCA, UMAP, and machine learning algorithms to analyze treatment responses.
+- Generated data visualizations and analytical reports for neuroscience researchers.
+- Presented findings that supported biological interpretation and treatment comparisons.
+
+**Technologies:** Python • R • Pandas • NumPy • Scikit-learn • PCA • UMAP • Machine Learning
+
+---
+
+## AI Fellow
+**Break Through Tech AI at UCLA**
+*May 2024 – July 2025*
+
+Completed an intensive AI fellowship combining graduate-level machine learning coursework, industry mentorship, and applied AI projects.
+
+### Highlights
+
+- Selected from over 3,000 applicants.
+- Built and evaluated deep learning models using TensorFlow and Scikit-learn.
+- Achieved over 80% model accuracy on supervised learning tasks.
+- Participated in technical mentorship and industry-led AI workshops.
+
+**Technologies:** Python • TensorFlow • Scikit-learn • Deep Learning
+
+---
+
+## Software Engineer (Founding Team)
+**Vision Board (AI Startup)**
+*October 2023 – December 2024*
+
+Joined the founding engineering team to develop an AI-powered interactive vision board platform recognized at UCI's AI Innovation Challenge.
+
+### Responsibilities
+
+- Built AI-powered software connecting physical board interactions with digital storytelling experiences.
+- Developed real-time object detection and interaction logic.
+- Collaborated with a multidisciplinary startup team from concept through product development.
+
+**Technologies:** Python • Computer Vision • AI
+
+---
+
+## Business Development Intern
+**Legacy Robotics**
+*October 2024 – July 2025*
+
+Supported product strategy and business development for an autonomous rover competing in the University Rover Challenge.
+
+### Responsibilities
+
+- Conducted competitive analysis and market research.
+- Helped align engineering deliverables with business objectives.
+- Contributed to product planning and strategic decision-making.
+
+---
+
+## STEM Navigator
+**Ventura County Community College District**
+*August 2022 – May 2023*
+
+Provided academic mentoring and career guidance to STEM students.
+
+### Responsibilities
+
+- Mentored students exploring Computer Science and engineering careers.
+- Connected students with internships, research opportunities, and campus resources.
+- Provided tutoring and peer advising to support academic success.
+- Helped students prepare for STEM coursework and career pathways.
 ---
 
 # 🏆 Achievements
@@ -147,16 +234,6 @@ HTML • CSS • JavaScript
 🧠 Break Through Tech AI Fellow
 
 🎓 Bachelor of Science in Computer Science — UC Irvine
-
----
-
-# 🌱 Currently Learning
-
-- Kubernetes
-- Distributed Systems
-- Cloud Architecture
-- Software Design Patterns
-- Large Language Models
 
 ---
 
