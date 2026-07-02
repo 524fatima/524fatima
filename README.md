@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatima Waqar</h1>
 
 <h3 align="center">
-Software Developer • Technical Product Analyst • AI Enthusiast
+Software Developer • Technical Product Analyst 
 </h3>
 
 <p align="center">
