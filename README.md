@@ -5,16 +5,16 @@ Software Developer • Technical Product Analyst
 </h3>
 
 <p align="center">
-B.S. Computer Science | University of California, Irvine
+B.S. Computer Science | Intelligent Systems Specialization | University of California, Irvine
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a recent Computer Science graduate from the **University of California, Irvine** with a passion for building software that combines artificial intelligence, full-stack development, and thoughtful product design.
+I'm a recent Computer Science graduate from the University of California, Irvine with a specialization in Intelligent Systems and a passion for building software that combines artificial intelligence, full-stack development, and thoughtful product design.
 
-Currently, I work as a **Technical Product Analyst** at **UCI Beall Applied Innovation**, where I collaborate with engineers, designers, researchers, and stakeholders to develop enterprise AI-powered applications. My work spans product strategy, frontend and backend development, AI evaluation, and user experience design.
+Currently, I work as a **Technical Product Analyst** at **UCI Beall Applied Innovation**, where I collaborate with engineers, designers, researchers, and stakeholders to develop enterprise AI-powered applications. My work spans full-stack feature development, product strategy, AI evaluation, and user experience design.
 
 I enjoy solving real-world problems through technology and am always looking for opportunities to build software that makes a meaningful impact.
 
@@ -44,6 +44,16 @@ I enjoy solving real-world problems through technology and am always looking for
 - NumPy
 - Scikit-learn
 - Matplotlib
+  
+### AI & Machine Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Prompt Engineering
+- AI Evaluation
+- Vector Search
+- Agentic AI Workflows
 
 ### Databases
 
@@ -53,7 +63,7 @@ I enjoy solving real-world problems through technology and am always looking for
 
 ### Cloud & Tools
 
-- AWS
+- AWS (Bedrock, DynamoDB, Cognito, App Runner, S3, CloudFront)
 - Git
 - GitHub
 - Android Studio
@@ -88,17 +98,17 @@ Python • Scikit-learn • PCA • UMAP • Pandas
 
 ## 🤖 Enterprise AI Workflow Interface
 
-Built interactive workflow visualizations for enterprise AI applications at UCI Beall Applied Innovation using React and TypeScript, improving transparency of AI reasoning and retrieval pipelines.
+Built an interactive agentic AI workflow interface for enterprise applications, visualizing each stage of the LLM pipeline including safety validation, retrieval, reranking, context selection, claim validation, response generation, and evaluation. Improved AI transparency, debugging, and developer visibility into the reasoning process.
 
 **Technologies**
 
-React • TypeScript • Python • AWS
+React • TypeScript • AWS Bedrock • Langchain • FastAPI • Qdrant • Python
 
 ---
 
 ## 📅 AI Calendar Assistant
 
-Built an AI-powered calendar assistant capable of extracting events, dates, times, durations, and locations from natural language using fine-tuned language models.
+Built an AI-powered calendar assistant using a fine-tuned FLAN-T5 language model capable of extracting events, dates, times, durations, and locations from natural language.
 
 **Technologies**
 
@@ -133,7 +143,7 @@ HTML • CSS • JavaScript
 **UCI Beall Applied Innovation (Enterprise Collaboration Group)**
 *June 2025 – June 2026*
 
-Worked at the intersection of software engineering, product management, and artificial intelligence to build enterprise AI applications used by researchers and internal stakeholders.
+Developed enterprise AI applications at the intersection of software engineering, product management, and artificial intelligence, building full-stack features, AI evaluation systems, and developer tools for researchers and enterprise users. 
 
 ### Responsibilities
 
